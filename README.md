@@ -1,4 +1,4 @@
 VueL
 ====
 
-[test](http://javascript:console.log("test");)
+[test](javascript:console.log\("test"\))
